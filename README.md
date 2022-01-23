@@ -1,17 +1,15 @@
-# Patika Bootstrap Ödev 3
-[Eğitimin Linki.](https://app.patika.dev/moduller/bootstrap)
+# Patika C# 101 Dersi
+[Eğitimin Linki.](https://app.patika.dev/moduller/csharp-101)
 ```
-Patika platformundaki bootstrap dersinin üçüncü ödevi.
-Linkedin arayüzü tasarlama.
+Patika platformundaki C# 101 dersindeki ödevlerin listesi.
+
 ```
 ```
-* HTML
-* CSS
-* Bootstrap
+* Değişken Türleri
 ```
 #
 
 
 
-https://user-images.githubusercontent.com/62007900/149603139-3fee3ead-c4de-463a-8bc4-4463dd377141.mp4
+
 
